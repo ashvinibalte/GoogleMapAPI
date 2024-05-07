@@ -1,5 +1,7 @@
 <h1><b1>Title: Interactive Google Map Application</b1></h1>
 
+![google](https://github.com/ashvinibalte/GoogleMapAPI/assets/125997432/2d143a58-8dc5-438c-8d63-729706a405bd)
+
 <h2><b1>Overview:</b1></h2>
 
 The Interactive Map Application is designed to enhance user interaction with geographical data using Google Maps. This Android application allows users to dynamically place markers by long-pressing locations on the map and visualize these points with connecting lines (polylines), facilitating easy tracking and visualization of routes or areas of interest. The application provides intuitive map controls, including zoom, tilt, and rotation, to enhance user experience when exploring different regions.
